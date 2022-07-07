@@ -1,4 +1,4 @@
-# work-for-Time-series-Database
+# work for Time-series Database
 the finished work for Time-series Database class,the scenario is logistics(location tracking).  
 There are two tables in the database.  
 The table “tracking” shows the id, location, and Courier number of the delivery at a certain time.  
